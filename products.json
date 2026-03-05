@@ -1,0 +1,8 @@
+[
+    
+    {"id": 1, "name": "T-Shirt", "price": 20, "image": "https://outoforder.in/wp-content/uploads/2020/03/womens-off-white-t-shirt.jpg"},
+    {"id": 2, "name": "Shoes", "price": 50, "image": "https://tiimg.tistatic.com/fp/1/008/129/women-without-laces-slip-on-walking-shoes-for-daily-wear-988.jpg"},
+    {"id": 3, "name": "Watch", "price": 100, "image": "https://www.carlington.in/cdn/shop/files/Carlington_elite_analog_ladies_watch_CT_2014_rosegold.jpg?v=1696691332&width=2400.jpg"},
+    {"id": 4, "name": "Bag", "price": 35, "image": "https://imagescdn.vanheusenindia.com/img/app/product/3/39966098-19595420.jpg?auto=format&w=390.jpg"}
+
+]
